@@ -92,6 +92,18 @@ const data = {
       countInStock: 20,
       description: 'A popular pants',
     },
+    {
+      name: 'Pairs Shoe',
+      slug: 'shoe',
+      category: 'Pants',
+      image: '/images/pairs_brown.jpg',
+      price: 75,
+      brand: 'Casely',
+      rating: 2.4,
+      numReviews: 13,
+      countInStock: 20,
+      description: 'A popular pants',
+    },
   ],
 }
 
